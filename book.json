@@ -1,8 +1,5 @@
 {
   "title": "gitbook tutorial",
-  "structure": {
-    "readme": "intro.md"
-  },
   "links": {
     "gitbook": false,
     "sharing": {
